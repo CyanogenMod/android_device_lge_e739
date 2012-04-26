@@ -7,3 +7,5 @@
 TARGET_KERNEL_CONFIG := cyanogen_e739_defconfig
 # Keep this as a fallback
 TARGET_PREBUILT_KERNEL := device/lge/e739/prebuilt/kernel
+
+TARGET_OTA_ASSERT_DEVICE:=e730,e739
